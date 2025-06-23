@@ -1,0 +1,33 @@
+state = {
+	id = 11
+	name = "STATE_11"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = STR
+		add_core_of = STR
+		victory_points = {
+			10450 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			10450 = {
+				naval_base = 6
+			}
+		}
+	}
+	provinces = {
+		124 785 1669 2148 2672 2761 2928 4486 4938 5561 10450 10457 10460 10465 2299 10448 5078 10462 5250
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 309123
+	state_category = town
+}

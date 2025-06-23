@@ -1,0 +1,33 @@
+state = {
+	id = 65
+	name = "STATE_65"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = PNT
+		add_core_of = PNT
+		victory_points = {
+			4105 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			4105 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		2919 4042 4105 9387 1964
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 80630
+	state_category = town
+}

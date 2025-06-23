@@ -1,0 +1,33 @@
+state = {
+	id = 38
+	name = "STATE_38"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = RLD
+		add_core_of = RLD
+		victory_points = {
+			1967 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			1967 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		367 876 1118 1462 1625 1707 1804 1812 1967 2755 2804 2830 3227 3320 3646 4614 4973 7728 7771 7805 7820 7827 7871 7876 7895 7930 7958 7968 7988 8043 
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 483780
+	state_category = town
+}

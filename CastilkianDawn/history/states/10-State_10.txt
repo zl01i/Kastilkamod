@@ -1,0 +1,33 @@
+state = {
+	id = 10
+	name = "STATE_10"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = SRF
+		add_core_of = SRF
+		victory_points = {
+			10452 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			10452 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces = {
+		648 1079 1753 2834 3219 3228 4469 4726 5115 5236 10441 10451 10452 10454 10456 10463 10464 2669 1895
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 306375
+	state_category = town
+}

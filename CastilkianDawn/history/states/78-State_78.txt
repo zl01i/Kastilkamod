@@ -1,0 +1,33 @@
+state = {
+	id = 78
+	name = "STATE_78"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = SRF
+		add_core_of = SRF
+		victory_points = {
+			5181 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			5181 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		5181
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 17120
+	state_category = town
+}

@@ -1,0 +1,184 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "KAS"
+		default = yes
+		
+		"KAS"={
+			history = "KAS_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		"HAN"={
+			history = "HAN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		"SIL"={
+			history = "SIL_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		"SRF"={
+			history = "SRF_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"ADR"={
+			history = "ADR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"RLD"={
+			history = "RLD_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"DRR"={
+			history = "DRR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"BOR"={
+			minor = yes
+			history = "BOR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"PNT"={
+			minor = yes
+			history = "PNT_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"TNL"={
+			minor = yes
+			history = "ADR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"STR"={
+			minor = yes
+			history = "STR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+		
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

@@ -1,0 +1,33 @@
+state = {
+	id = 2
+	name = "STATE_2"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = ADR
+		add_core_of = ADR
+		victory_points = {
+			5573 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			5573 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		980 1136 1215 2464 2769 3436 3784 4147 4630 4788 5075 5573 9960 9971 10049 10077 10088 10104 10129 
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 306394
+	state_category = town
+}

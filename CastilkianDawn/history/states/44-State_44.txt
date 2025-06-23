@@ -1,0 +1,33 @@
+state = {
+	id = 44
+	name = "STATE_44"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = KAS
+		add_core_of = KAS
+		victory_points = {
+			4565 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			4565 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces = {
+		29 434 2204 2316 4555 4565 5221 5638 5650 5652 5656 5467 3631 5674
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 225764
+	state_category = town
+}

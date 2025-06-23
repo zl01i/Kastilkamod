@@ -1,0 +1,30 @@
+state = {
+	id = 48
+	name = "STATE_48"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = HAN
+		add_core_of = HAN
+		victory_points = {
+			8499 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		36 354 543 561 978 1006 1010 1220 1474 1548 1587 2011 2183 2209 2214 2546 2694 2862 3001 3160 3256 3364 3405 3488 3613 3760 3761 4168 4287 4316 4340 4635 4729 4780 4981 5367 5441 8257 8279 8300 8301 8302 8327 8335 8367 8368 8375 8391 8399 8426 8453 8462 8479 8499 8512 8513 8556 8563 8571 8596 8610 8637 8648 8655 8690 8725 8741 8820 8823 
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 1112694
+	state_category = town
+}

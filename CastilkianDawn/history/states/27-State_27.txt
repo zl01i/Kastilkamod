@@ -1,0 +1,30 @@
+state = {
+	id = 27
+	name = "STATE_27"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = KAS
+		add_core_of = KAS
+		victory_points = {
+			7080 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		40 431 864 1355 1700 1943 2247 2325 2619 2705 2711 2717 2882 2990 3028 3250 3464 3769 4153 4254 4391 4670 4736 4739 4853 4988 4997 5144 5252 5348 6829 6850 6860 6871 6880 6881 6904 6913 6926 6932 6963 6978 6979 6980 6985 6998 7021 7026 7027 7028 7032 7035 7036 7049 7066 7068 7080 7081 7104 7108 7120 7141 7143 7144 7156 7159 7170 7214 
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 1096568
+	state_category = town
+}

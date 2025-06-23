@@ -1,0 +1,33 @@
+state = {
+	id = 63
+	name = "STATE_63"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = RLD
+		add_core_of = RLD
+		victory_points = {
+			1726 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			9690 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		94 221 429 505 761 799 1194 1494 1525 1595 1726 1733 2586 2767 2854 2859 2880 2962 2996 3056 3074 3119 3391 3538 4029 4103 4199 4357 4513 4545 4598 4612 4651 4686 4854 5218 5284 5307 5461 9306 9354 9383 9432 9463 9470 9471 9516 9571 9574 9608 9619 9620 9624 9627 9643 9646 9654 9660 9672 9685 9690 9704 9710 9721 9725 9732 9733 9744 9752 9763 9764 9765 9778 9779 9804 9812 9822 9846 9655 3494 1921
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 1306206
+	state_category = town
+}

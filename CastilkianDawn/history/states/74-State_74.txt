@@ -1,0 +1,33 @@
+state = {
+	id = 74
+	name = "STATE_74"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = TNL
+		add_core_of = TNL
+		victory_points = {
+			3455 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			3455 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		10033 4672 1554 3455 10142 4820 4386 3022 10058 10089 754 100 5562 3842 10002
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 241890
+	state_category = town
+}

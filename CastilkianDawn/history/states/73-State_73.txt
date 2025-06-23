@@ -1,0 +1,33 @@
+state = {
+	id = 73
+	name = "STATE_73"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = PNT
+		add_core_of = PNT
+		victory_points = {
+			4639 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			4639 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces = {
+		8236 8294 574 4290 4154 8315 8381 4639 8425 4331
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 161260
+	state_category = town
+}

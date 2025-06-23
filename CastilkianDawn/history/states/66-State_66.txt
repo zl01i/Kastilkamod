@@ -1,0 +1,34 @@
+state = {
+	id = 66
+	name = "STATE_66"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = TNL
+		add_core_of = TNL
+		victory_points = {
+			216 10
+		}
+		victory_points = { 4825 5 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			4825 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		216 457 686 766 958 1091 1200 1571 1693 1744 1984 2073 2103 2342 2390 2703 2776 2794 2920 3095 3128 3181 3274 3469 3482 3510 3656 3679 3788 3968 4043 4296 4373 4443 4485 4825 4898 5062 5290 5488 9510 9553 9569 9586 9605 9623 9638 9664 9706 9720 9742 9751 9795 9851 9856 9857 9863 9879 9880 9886 9920 9927 9944 9957 9964 9994 9998 
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 1080442
+	state_category = town
+}

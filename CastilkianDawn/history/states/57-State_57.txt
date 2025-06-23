@@ -1,0 +1,33 @@
+state = {
+	id = 57
+	name = "STATE_57"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = HAN
+		add_core_of = HAN
+		victory_points = {
+			9159 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			9159 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		58 302 3210 3599 4579 5123 9061 9081 9101 9126 9159 9174 9183 9197 
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 225764
+	state_category = town
+}

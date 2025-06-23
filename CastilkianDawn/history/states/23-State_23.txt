@@ -1,0 +1,33 @@
+state = {
+	id = 23
+	name = "STATE_23"
+	resources = {
+		oil = 8
+		aluminium = 8
+		rubber = 8
+		tungsten = 8
+		steel = 8
+		chromium = 8
+	}
+	history = {
+		owner = BOR
+		add_core_of = BOR
+		victory_points = {
+			6709 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			6709 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		619 849 1195 1527 2622 2739 3199 3552 3912 4180 4241 4265 5060 5489 6471 6512 6577 6618 6633 6634 6662 6709 6732 6739 5177 6459 2708 6423 4681 6506 6397 6658 4822 6747
+	}
+	buildings_max_level_factor = 1.000
+	manpower = 548284
+	state_category = town
+}
