@@ -45,4 +45,4 @@ set_popularities = {
 	neutrality = 0
 }
 
-
+set_cosmetic_tag = STR_SRF

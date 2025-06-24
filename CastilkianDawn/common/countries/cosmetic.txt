@@ -1,0 +1,4 @@
+STR_SRF = {
+	color = rgb { 220 225 104 }
+	color_ui = rgb { 240 245 130 }
+}

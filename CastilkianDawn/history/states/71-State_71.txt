@@ -13,7 +13,7 @@ state = {
 		owner = TNL
 		add_core_of = TNL
 		victory_points = {
-			4666 10
+			3397 10
 		}
 		victory_points = { 10073 5 }
 		buildings = {
